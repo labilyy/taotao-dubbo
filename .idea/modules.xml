@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../taotao-dubbo/taotaocommon/taotaocommon.iml" filepath="$PROJECT_DIR$/../taotao-dubbo/taotaocommon/taotaocommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../taotao-dubbo/taotaomanager/taotaomanager.iml" filepath="$PROJECT_DIR$/../taotao-dubbo/taotaomanager/taotaomanager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../taotao-dubbo/taotaomanager/taotao-manager-dao/taotaomanagerdao.iml" filepath="$PROJECT_DIR$/../taotao-dubbo/taotaomanager/taotao-manager-dao/taotaomanagerdao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../taotao-dubbo/taotaomanager/taotao-manager-interface/taotaomanagerinterface.iml" filepath="$PROJECT_DIR$/../taotao-dubbo/taotaomanager/taotao-manager-interface/taotaomanagerinterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../taotao-dubbo/taotaomanager/taotao-manager-pojo/taotaomanagerpojo.iml" filepath="$PROJECT_DIR$/../taotao-dubbo/taotaomanager/taotao-manager-pojo/taotaomanagerpojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../taotao-dubbo/taotaomanager/taotao-manager-service/taotaomanagerservice.iml" filepath="$PROJECT_DIR$/../taotao-dubbo/taotaomanager/taotao-manager-service/taotaomanagerservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../taotao-dubbo/taotaomanagerweb/taotaomanagerweb.iml" filepath="$PROJECT_DIR$/../taotao-dubbo/taotaomanagerweb/taotaomanagerweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../taotao-dubbo/taotaoparent/taotaoparent.iml" filepath="$PROJECT_DIR$/../taotao-dubbo/taotaoparent/taotaoparent.iml" />
+    </modules>
+  </component>
+</project>
